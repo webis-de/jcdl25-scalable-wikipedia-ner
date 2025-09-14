@@ -27,6 +27,7 @@ Contains datasets and outputs from different processing approaches.
 
 - **`dataset/`**
 
+  - `_revisions.json` – 24 Article names used in the experiment.
   - `54` JSON files – Each includes a hyperlink to a Wikipedia article and manually annotated person named entities.
 
 - **`hybrid_approach/`**
