@@ -1,0 +1,338 @@
+[
+  {
+    "input_file_name": "dumps/01_wearable_computer.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/01_Wearable_computer_2005_01_10.json",
+        "id": 9593251
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/01_Wearable_computer_2015_01_10.json",
+        "id": 641507365
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/01_Wearable_computer_2025_01_10.json",
+        "id": 1267732727
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/02_light_emitting_diode.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/02_Light_emitting_diode_2005_01_10.json",
+        "id": 9549951
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/02_Light_emitting_diode_2015_01_10.json",
+        "id": 641853600
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/02_Light_emitting_diode_2025_01_10.json",
+        "id": 1266646693
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/03_insulin.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/03_Insulin_2005_01_10.json",
+        "id": 9269045
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/03_Insulin_2015_01_10.json",
+        "id": 641928527
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/03_Insulin_2025_01_10.json",
+        "id": 1265304383
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/04_artificial_intelligence.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/04_Artificial_intelligence_2005_01_10.json",
+        "id": 9314633
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/04_Artificial_intelligence_2015_01_10.json",
+        "id": 641848453
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/04_Artificial_intelligence_2025_01_10.json",
+        "id": 1268183823
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/05_messenger_rna.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/05_Messenger_RNA_2005_01_10.json",
+        "id": 9898940
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/05_Messenger_RNA_2015_01_10.json",
+        "id": 641559759
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/05_Messenger_RNA_2025_01_10.json",
+        "id": 1268516851
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/06_genetic_engineering.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/06_Genetic_engineering_2005_01_10.json",
+        "id": 9493702
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/06_Genetic_engineering_2015_01_10.json",
+        "id": 638498661
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/06_Genetic_engineering_2025_01_10.json",
+        "id": 1263690094
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/07_cognitive_behavioral_therapy.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/07_Cognitive_behavioral_therapy_2005_01_10.json",
+        "id": 10917908
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/07_Cognitive_behavioral_therapy_2015_01_10.json",
+        "id": 641675359
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/07_Cognitive_behavioral_therapy_2025_01_10.json",
+        "id": 1266894642
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/08_fourier_analysis.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/08_Fourier_analysis_2005_01_10.json",
+        "id": 9494202
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/08_Fourier_analysis_2015_01_10.json",
+        "id": 637221956
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/08_Fourier_analysis_2025_01_10.json",
+        "id": 1263338092
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/09_fourier_series.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/09_Fourier_series_2005_01_10.json",
+        "id": 9317792
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/09_Fourier_series_2015_01_10.json",
+        "id": 641124498
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/09_Fourier_series_2025_01_10.json",
+        "id": 1268551801
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/10_social_robot.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/10_Social_robot_2005_01_10.json",
+        "id": 10745585
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/10_Social_robot_2015_01_10.json",
+        "id": 628829934
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/10_Social_robot_2025_01_10.json",
+        "id": 1243236040
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/11_touchscreen.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/11_Touchscreen_2005_01_10.json",
+        "id": 10626356
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/11_Touchscreen_2015_01_10.json",
+        "id": 641144269
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/11_Touchscreen_2025_01_10.json",
+        "id": 1262838270
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/12_metabolic_engineering.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/12_Metabolic_engineering_2015_01_10.json",
+        "id": 641230558
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/12_Metabolic_engineering_2025_01_10.json",
+        "id": 1228247624
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/13_car_t_cell.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/13_CAR_T_cell_2025_01_10.json",
+        "id": 1266376593
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/14_language_model.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/14_Language_Model_2015_01_10.json",
+        "id": 638768845
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/14_Language_Model_2025_01_10.json",
+        "id": 1266169372
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/15_crispr.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/15_CRISPR_2015_01_10.json",
+        "id": 641773758
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/15_CRISPR_2025_01_10.json",
+        "id": 1266927170
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/16_personalized_medicine.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/16_Personalized_medicine_2015_01_10.json",
+        "id": 636944595
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/16_Personalized_medicine_2025_01_10.json",
+        "id": 1260391448
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/17_self_healing_material.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/17_Self_healing_material_2015_01_10.json",
+        "id": 634312970
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/17_Self_healing_material_2025_01_10.json",
+        "id": 1259458289
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/18_electric_aircraft.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/18_Electric_aircraft_2015_01_10.json",
+        "id": 641093777
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/18_Electric_aircraft_2025_01_10.json",
+        "id": 1253274607
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/19_insulin_medication.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/19_Insulin_medication_2015_01_10.json",
+        "id": 637465427
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/19_Insulin_medication_2025_01_10.json",
+        "id": 1257308371
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/20_event_horizon_telescope.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/20_Event_Horizon_Telescope_2015_01_10.json",
+        "id": 636736540
+      },
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/20_Event_Horizon_Telescope_2025_01_10.json",
+        "id": 1267423240
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/21_crispr_gene_editing.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/21_CRISPR_gene_editing_2025_01_10.json",
+        "id": 1268207626
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/22_mRNA_vaccine.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/22_mRNA_vaccine_2025_01_10.json",
+        "id": 1267670159
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/23_genetic_vaccine.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/23_Genetic_vaccine_2025_01_10.json",
+        "id": 1228426999
+      }
+    ]
+  },
+  {
+    "input_file_name": "dumps/24_large_language_model.xml",
+    "revisions": [
+      {
+        "output_file_name": "wikipedia_metadata/wikipedia_parser_names/24_Large_language_model_2025_01_10.json",
+        "id": 1267228912
+      }
+    ]
+  }
+]

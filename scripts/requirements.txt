@@ -1,0 +1,10 @@
+mwxml
+tqdm
+requests
+html2text
+spacy
+spacy-transformers
+
+# Recommended: install a transformer-based spaCy NER model
+# (uncomment one of the following lines and run it once)
+# python -m spacy download en_core_web_trf
